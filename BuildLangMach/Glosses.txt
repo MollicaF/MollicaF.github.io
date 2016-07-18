@@ -1,0 +1,69 @@
+la camisa es muy fabulosa
+the shirt is very fabulous
+s(np(dt(la), n(camisa)), vp(tv(es), ap(adv(muy), adj(fabulosa))))
+
+el tio no tiene dinero
+the uncle has no money
+s(np(dt(el), n(tio)), vp(neg(no), vp(tv(tiene), np(n(dinero)))))
+
+el nino y la nina corren a fuera
+the boy and the girl run away
+s(np(np(dt(el), n(nino)), conj(y), np(dt(la), n(nina))), vp(vp(iv(corren)), pp(p(a), np(n(fuera)))))
+
+el cielo es azur
+the sky is blue
+s(np(dt(el), n(cielo)), vp(tv(es), ap(adj(azur))))
+
+los muertos duermen aqui
+the dead sleep here
+s(np(dt(los), n(muertos)), vp(vp(iv(duermen)), adv(aqui)))
+
+la racha ha terminado
+the streak has ended.
+s(np(dt(la), n(racha)), vp(aux(ha), vperf(terminado)))
+
+yo veo un hombre con binoculos
+I saw a man with binoculars
+s(np(pn(yo)), vp(vp(tv(veo), np(dt(un), n(hombre))), pp(p(con), np(n(binoculos)))))
+
+el nino golpea la pelota
+the boy hit the ball
+s(np(dt(el), n(nino)), vp(tv(golpea), np(dt(la), n(pelota))))
+
+la novia esconde la veradad
+the girlfriend hides the truth
+s(np(dt(la), n(novia)), vp(tv(esconde), np(dt(la), n(verdad))))
+
+el gente descubre la verdad
+the people discover the truth
+s(np(dt(la), n(gente)), vp(tv(descubre), np(dt(la), n(verdad))))
+
+el arbol cayo ayer
+the tree fell yesterday
+
+de repente el sol despierto
+suddenly, the sun awoke
+
+la journalista escribe el periodico
+the journalist writes the news
+
+el burro perdio sus calcetines
+the donkey lost his socks
+
+la alma es libre
+the soul is free
+
+el pollo es un pajaro
+the chicken is a bird
+
+yo olvido mis cumpleanos
+i forgot my birthday
+
+nosotros queremos cafe con azucar y leche
+we want coffee with sugar and milk
+
+esta perra esta loca hoy
+this dog is crazy today
+
+el abagado trabaja en una oficina
+the lawyer works in an office

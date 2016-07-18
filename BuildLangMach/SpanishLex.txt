@@ -1,0 +1,74 @@
+lex(p,a).
+lex(n,abagado).
+lex(n,alma).
+lex(n,aqui).
+lex(n,arbol).
+lex(v, desperto).
+lex(adv, ayer).
+lex(n, azucar).
+lex(adj, azur).
+lex(n, binoculos).
+lex(n,burro).
+lex(n,cafe).
+lex(n, calcetines).
+lex(n, camisa).
+lex(v, cayo).
+lex(n, cielo).
+lex(p, con).
+lex(v, corren).
+lex(n, cumpleanos).
+lex(p, de).
+lex(v, descubre).
+lex(n, dinero).
+lex(v, duermen).
+lex(dt, el).
+lex(p, en).
+lex(v, es).
+lex(v, esconde).
+lex(v, escribe).
+lex(v, esta).
+lex(adj, fabulosa).
+lex(n,fuera).
+lex(n, gente).
+lex(v, golpea).
+lex(v, ha).
+lex(n, hombre).
+lex(adv, hoy).
+lex(n, journalista).
+lex(dt, la).
+lex(n, leche).
+lex(n, libre).
+lex(adj, loca).
+lex(dt, los).
+lex(dt, mis).
+lex(adj, muertos).
+lex(n, muertos).
+lex(adv, muy).
+lex(n, nina).
+lex(n, nino).
+lex(neg, no).
+lex(pn, nosotros).
+lex(n, novia).
+lex(n, oficina).
+lex(v, olvido).
+lex(n, pajaro).
+lex(n, pelota).
+lex(v, perdio).
+lex(n, periodico).
+lex(n, perra).
+lex(n, pollo).
+lex(v, queremos).
+lex(n, racha).
+lex(adv, repente).
+lex(n, sol).
+lex(dt, sus).
+lex(adj, terminado).
+lex(v, tiene).
+lex(n, tio).
+lex(v, trabaja).
+lex(dt, un).
+lex(dt, una).
+lex(v, veo).
+lex(n, verdad).
+lex(conj, y).
+lex(pn, yo).
