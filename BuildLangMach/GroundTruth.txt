@@ -1,0 +1,79 @@
+la camisa es muy fabulosa
+the shirt is very fabulous
+s(np(dt(la), n(camisa)), vp(tv(es), ap(adv(muy), adj(fabulosa))))
+
+el tio no tiene dinero
+the uncle has no money
+s(np(dt(el), n(tio)), vp(neg(no), vp(tv(tiene), np(n(dinero)))))
+
+el nino y la nina corren a fuera
+the boy and the girl run away
+s(np(np(dt(el), n(nino)), conj(y), np(dt(la), n(nina))), vp(vp(iv(corren)), pp(p(a), np(n(fuera)))))
+
+el cielo es azur
+the sky is blue
+s(np(dt(el), n(cielo)), vp(tv(es), ap(adj(azur))))
+
+los muertos duermen aqui
+the dead sleep here
+s(np(dt(los), n(muertos)), vp(vp(iv(duermen)), adv(aqui)))
+
+la racha ha terminado
+the streak has ended.
+s(np(dt(la), n(racha)), vp(aux(ha), vperf(terminado)))
+
+yo veo un hombre con binoculos
+I saw a man with binoculars
+s(np(pn(yo)), vp(vp(tv(veo), np(dt(un), n(hombre))), pp(p(con), np(n(binoculos)))))
+
+el nino golpea la pelota
+the boy hit the ball
+s(np(dt(el), n(nino)), vp(tv(golpea), np(dt(la), n(pelota))))
+
+la novia esconde la veradad
+the girlfriend hides the truth
+s(np(dt(la), n(novia)), vp(tv(esconde), np(dt(la), n(verdad))))
+
+el gente descubre la verdad
+the people discover the truth
+s(np(dt(la), n(gente)), vp(tv(descubre), np(dt(la), n(verdad))))
+
+el arbol cayo ayer
+the tree fell yesterday
+s(np(dt(el), n(arbol)), vp(vp(iv(cayo)), adv(ayer)))
+
+de repente el sol despierto
+suddenly, the sun awoke
+s(adv(p(de), adv(repente)), s(np(dt(el), n(sol)), vp(iv(desperto))))
+
+la journalista escribe el periodico
+the journalist writes the news
+s(np(dt(la), n(journalista)), vp(tv(escribe), np(dt(el), n(periodico))))
+
+el burro perdio sus calcetines
+the donkey lost his socks
+s(np(dt(el), n(burro)), vp(tv(perdio), np(dt(sus), n(calcetines))))
+
+la alma es libre
+the soul is free
+s(np(dt(la), n(alma)), vp(tv(es), np(n(libre))))
+
+el pollo es un pajaro
+the chicken is a bird
+s(np(dt(el), n(pollo)), vp(tv(es), np(dt(un), n(pajaro))))
+
+yo olvido mis cumpleanos
+i forgot my birthday
+s(np(pn(yo)), vp(tv(olvido), np(dt(mis), n(cumpleanos))))
+
+nosotros queremos cafe con azucar y leche
+we want coffee with sugar and milk
+s(np(pn(nosotros)), vp(tv(queremos), np(n(n(cafe), pp(p(con), np(np(n(azucar)), conj(y), np(n(leche))))))))
+
+esta perra esta loca hoy
+this dog is crazy today
+s(np(dt(esta), n(perra)), vp(vp(tv(esta), ap(adj(loca))), adv(hoy)))
+
+el abagado trabaja en una oficina
+the lawyer works in an office
+s(np(dt(el), n(abagado)), vp(vp(iv(trabaja)), pp(p(en), np(dt(una), n(oficina)))))
