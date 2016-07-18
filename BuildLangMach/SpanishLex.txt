@@ -2,8 +2,9 @@ lex(p,a).
 lex(n,abagado).
 lex(n,alma).
 lex(n,aqui).
+lex(adv,aqui).
 lex(n,arbol).
-lex(v, desperto).
+lex(iv, desperto).
 lex(adv, ayer).
 lex(n, azucar).
 lex(adj, azur).
@@ -12,26 +13,27 @@ lex(n,burro).
 lex(n,cafe).
 lex(n, calcetines).
 lex(n, camisa).
-lex(v, cayo).
+lex(iv, cayo).
 lex(n, cielo).
 lex(p, con).
-lex(v, corren).
+lex(iv, corren).
 lex(n, cumpleanos).
 lex(p, de).
-lex(v, descubre).
+lex(tv, descubre).
 lex(n, dinero).
-lex(v, duermen).
+lex(iv, duermen).
 lex(dt, el).
 lex(p, en).
-lex(v, es).
-lex(v, esconde).
-lex(v, escribe).
-lex(v, esta).
+lex(tv, es).
+lex(tv, esconde).
+lex(tv, escribe).
+lex(tv, esta).
+lex(dt, esta).
 lex(adj, fabulosa).
 lex(n,fuera).
 lex(n, gente).
-lex(v, golpea).
-lex(v, ha).
+lex(tv, golpea).
+lex(aux, ha).
 lex(n, hombre).
 lex(adv, hoy).
 lex(n, journalista).
@@ -50,25 +52,25 @@ lex(neg, no).
 lex(pn, nosotros).
 lex(n, novia).
 lex(n, oficina).
-lex(v, olvido).
+lex(tv, olvido).
 lex(n, pajaro).
 lex(n, pelota).
-lex(v, perdio).
+lex(tv, perdio).
 lex(n, periodico).
 lex(n, perra).
 lex(n, pollo).
-lex(v, queremos).
+lex(tv, queremos).
 lex(n, racha).
 lex(adv, repente).
 lex(n, sol).
 lex(dt, sus).
-lex(adj, terminado).
-lex(v, tiene).
+lex(vperf, terminado).
+lex(tv, tiene).
 lex(n, tio).
-lex(v, trabaja).
+lex(iv, trabaja).
 lex(dt, un).
 lex(dt, una).
-lex(v, veo).
+lex(tv, veo).
 lex(n, verdad).
 lex(conj, y).
 lex(pn, yo).
