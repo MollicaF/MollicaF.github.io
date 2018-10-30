@@ -780,3 +780,219 @@ yenge_slider.oninput = function() {
     }
 }
 
+// -- Access the kinship svg --
+//This gets the document, not the markup elements
+var eiwa_document = document.getElementById("eiwa");
+var eiwa_svg;  //this will hold the markup
+var eiwa_elements;  //this will hold an array of the individuals to iterate through
+var eiwa_epoch = "";
+
+//once the file has loaded, we can access the internal elements
+eiwa_document.addEventListener("load",function(){
+    eiwa_svg = eiwa_document.contentDocument;  //get inner content (markup)
+    eiwa_elements = eiwa_svg.getElementsByClassName("people"); //get the people
+    eiwa_epoch = eiwa_svg.getElementById("epoch"); //get the text element in the svg (I added an ID tag there)
+}, false);
+
+
+var eiwa_slider = document.getElementById("eiwa_slider");
+
+eiwa_slider.oninput = function() {
+    eiwa_epoch.textContent = "N:" + eiwa_slider.value; //set the epoch in the SVG
+
+    //go through all the people and set the fill per person based on the value in the data array:
+    //take the id of the current indexed person, and get the epoch data that matches the slider
+    for(var i=0; i<eiwa_elements.length; i++){
+        eiwa_elements[i].style.fill = eiwa[eiwa_elements[i].id][+eiwa_slider.value];
+    }
+}
+
+// -- Access the kinship svg --
+//This gets the document, not the markup elements
+var amiwa_document = document.getElementById("amiwa");
+var amiwa_svg;  //this will hold the markup
+var amiwa_elements;  //this will hold an array of the individuals to iterate through
+var amiwa_epoch = "";
+
+//once the file has loaded, we can access the internal elements
+amiwa_document.addEventListener("load",function(){
+    amiwa_svg = amiwa_document.contentDocument;  //get inner content (markup)
+    amiwa_elements = amiwa_svg.getElementsByClassName("people"); //get the people
+    amiwa_epoch = amiwa_svg.getElementById("epoch"); //get the text element in the svg (I added an ID tag there)
+}, false);
+
+
+var amiwa_slider = document.getElementById("amiwa_slider");
+
+amiwa_slider.oninput = function() {
+    amiwa_epoch.textContent = "N:" + amiwa_slider.value; //set the epoch in the SVG
+
+    //go through all the people and set the fill per person based on the value in the data array:
+    //take the id of the current indexed person, and get the epoch data that matches the slider
+    for(var i=0; i<amiwa_elements.length; i++){
+        amiwa_elements[i].style.fill = amiwa[amiwa_elements[i].id][+amiwa_slider.value];
+    }
+}
+
+// -- Access the kinship svg --
+//This gets the document, not the markup elements
+var soriwa_document = document.getElementById("soriwa");
+var soriwa_svg;  //this will hold the markup
+var soriwa_elements;  //this will hold an array of the individuals to iterate through
+var soriwa_epoch = "";
+
+//once the file has loaded, we can access the internal elements
+soriwa_document.addEventListener("load",function(){
+    soriwa_svg = soriwa_document.contentDocument;  //get inner content (markup)
+    soriwa_elements = soriwa_svg.getElementsByClassName("people"); //get the people
+    soriwa_epoch = soriwa_svg.getElementById("epoch"); //get the text element in the svg (I added an ID tag there)
+}, false);
+
+
+var soriwa_slider = document.getElementById("soriwa_slider");
+
+soriwa_slider.oninput = function() {
+    soriwa_epoch.textContent = "N:" + soriwa_slider.value; //set the epoch in the SVG
+
+    //go through all the people and set the fill per person based on the value in the data array:
+    //take the id of the current indexed person, and get the epoch data that matches the slider
+    for(var i=0; i<soriwa_elements.length; i++){
+        soriwa_elements[i].style.fill = soriwa[soriwa_elements[i].id][+soriwa_slider.value];
+    }
+}
+
+// -- Access the kinship svg --
+//This gets the document, not the markup elements
+var suaboya_document = document.getElementById("suaboya");
+var suaboya_svg;  //this will hold the markup
+var suaboya_elements;  //this will hold an array of the individuals to iterate through
+var suaboya_epoch = "";
+
+//once the file has loaded, we can access the internal elements
+suaboya_document.addEventListener("load",function(){
+    suaboya_svg = suaboya_document.contentDocument;  //get inner content (markup)
+    suaboya_elements = suaboya_svg.getElementsByClassName("people"); //get the people
+    suaboya_epoch = suaboya_svg.getElementById("epoch"); //get the text element in the svg (I added an ID tag there)
+}, false);
+
+
+var suaboya_slider = document.getElementById("suaboya_slider");
+
+suaboya_slider.oninput = function() {
+    suaboya_epoch.textContent = "N:" + suaboya_slider.value; //set the epoch in the SVG
+
+    //go through all the people and set the fill per person based on the value in the data array:
+    //take the id of the current indexed person, and get the epoch data that matches the slider
+    for(var i=0; i<suaboya_elements.length; i++){
+        suaboya_elements[i].style.fill = suaboya[suaboya_elements[i].id][+suaboya_slider.value];
+    }
+}
+
+// -- Access the kinship svg --
+//This gets the document, not the markup elements
+var haya_document = document.getElementById("haya");
+var haya_svg;  //this will hold the markup
+var haya_elements;  //this will hold an array of the individuals to iterate through
+var haya_epoch = "";
+
+//once the file has loaded, we can access the internal elements
+haya_document.addEventListener("load",function(){
+    haya_svg = haya_document.contentDocument;  //get inner content (markup)
+    haya_elements = haya_svg.getElementsByClassName("people"); //get the people
+    haya_epoch = haya_svg.getElementById("epoch"); //get the text element in the svg (I added an ID tag there)
+}, false);
+
+
+var haya_slider = document.getElementById("haya_slider");
+
+haya_slider.oninput = function() {
+    haya_epoch.textContent = "N:" + haya_slider.value; //set the epoch in the SVG
+
+    //go through all the people and set the fill per person based on the value in the data array:
+    //take the id of the current indexed person, and get the epoch data that matches the slider
+    for(var i=0; i<haya_elements.length; i++){
+        haya_elements[i].style.fill = haya[haya_elements[i].id][+haya_slider.value];
+    }
+}
+
+// -- Access the kinship svg --
+//This gets the document, not the markup elements
+var naya_document = document.getElementById("naya");
+var naya_svg;  //this will hold the markup
+var naya_elements;  //this will hold an array of the individuals to iterate through
+var naya_epoch = "";
+
+//once the file has loaded, we can access the internal elements
+naya_document.addEventListener("load",function(){
+    naya_svg = naya_document.contentDocument;  //get inner content (markup)
+    naya_elements = naya_svg.getElementsByClassName("people"); //get the people
+    naya_epoch = naya_svg.getElementById("epoch"); //get the text element in the svg (I added an ID tag there)
+}, false);
+
+
+var naya_slider = document.getElementById("naya_slider");
+
+naya_slider.oninput = function() {
+    naya_epoch.textContent = "N:" + naya_slider.value; //set the epoch in the SVG
+
+    //go through all the people and set the fill per person based on the value in the data array:
+    //take the id of the current indexed person, and get the epoch data that matches the slider
+    for(var i=0; i<naya_elements.length; i++){
+        naya_elements[i].style.fill = naya[naya_elements[i].id][+naya_slider.value];
+    }
+}
+
+// -- Access the kinship svg --
+//This gets the document, not the markup elements
+var soaya_document = document.getElementById("soaya");
+var soaya_svg;  //this will hold the markup
+var soaya_elements;  //this will hold an array of the individuals to iterate through
+var soaya_epoch = "";
+
+//once the file has loaded, we can access the internal elements
+soaya_document.addEventListener("load",function(){
+    soaya_svg = soaya_document.contentDocument;  //get inner content (markup)
+    soaya_elements = soaya_svg.getElementsByClassName("people"); //get the people
+    soaya_epoch = soaya_svg.getElementById("epoch"); //get the text element in the svg (I added an ID tag there)
+}, false);
+
+
+var soaya_slider = document.getElementById("soaya_slider");
+
+soaya_slider.oninput = function() {
+    soaya_epoch.textContent = "N:" + soaya_slider.value; //set the epoch in the SVG
+
+    //go through all the people and set the fill per person based on the value in the data array:
+    //take the id of the current indexed person, and get the epoch data that matches the slider
+    for(var i=0; i<soaya_elements.length; i++){
+        soaya_elements[i].style.fill = soaya[soaya_elements[i].id][+soaya_slider.value];
+    }
+}
+
+// -- Access the kinship svg --
+//This gets the document, not the markup elements
+var yesiya_document = document.getElementById("yesiya");
+var yesiya_svg;  //this will hold the markup
+var yesiya_elements;  //this will hold an array of the individuals to iterate through
+var yesiya_epoch = "";
+
+//once the file has loaded, we can access the internal elements
+yesiya_document.addEventListener("load",function(){
+    yesiya_svg = yesiya_document.contentDocument;  //get inner content (markup)
+    yesiya_elements = yesiya_svg.getElementsByClassName("people"); //get the people
+    yesiya_epoch = yesiya_svg.getElementById("epoch"); //get the text element in the svg (I added an ID tag there)
+}, false);
+
+
+var yesiya_slider = document.getElementById("yesiya_slider");
+
+yesiya_slider.oninput = function() {
+    yesiya_epoch.textContent = "N:" + yesiya_slider.value; //set the epoch in the SVG
+
+    //go through all the people and set the fill per person based on the value in the data array:
+    //take the id of the current indexed person, and get the epoch data that matches the slider
+    for(var i=0; i<yesiya_elements.length; i++){
+        yesiya_elements[i].style.fill = yesiya[yesiya_elements[i].id][+yesiya_slider.value];
+    }
+}
+
