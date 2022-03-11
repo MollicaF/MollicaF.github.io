@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 | Frank Mollica</title>
-    <link>/publication-type/3/</link>
-      <atom:link href="/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mollicaf.github.io/publication-type/3/</link>
+      <atom:link href="https://mollicaf.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://mollicaf.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>3</title>
-      <link>/publication-type/3/</link>
+      <link>https://mollicaf.github.io/publication-type/3/</link>
     </image>
     
     <item>
       <title>So much for plain language</title>
-      <link>/publication/martinez-2022-somuch/</link>
+      <link>https://mollicaf.github.io/publication/martinez-2022-somuch/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/martinez-2022-somuch/</guid>
+      <guid>https://mollicaf.github.io/publication/martinez-2022-somuch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>‘Constituent length’ effects in fMRI do not provide evidence for abstract syntactic processing</title>
-      <link>/publication/shain-2022-constituent/</link>
+      <link>https://mollicaf.github.io/publication/shain-2022-constituent/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/shain-2022-constituent/</guid>
+      <guid>https://mollicaf.github.io/publication/shain-2022-constituent/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semantic verification is flexible and sensitive to context</title>
-      <link>/publication/register-2017-verification/</link>
+      <link>https://mollicaf.github.io/publication/register-2017-verification/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/register-2017-verification/</guid>
+      <guid>https://mollicaf.github.io/publication/register-2017-verification/</guid>
       <description></description>
     </item>
     

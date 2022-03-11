@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M. Oraa Ali | Frank Mollica</title>
-    <link>/author/m.-oraa-ali/</link>
-      <atom:link href="/author/m.-oraa-ali/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mollicaf.github.io/author/m.-oraa-ali/</link>
+      <atom:link href="https://mollicaf.github.io/author/m.-oraa-ali/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Oraa Ali</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://mollicaf.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>M. Oraa Ali</title>
-      <link>/author/m.-oraa-ali/</link>
+      <link>https://mollicaf.github.io/author/m.-oraa-ali/</link>
     </image>
     
     <item>
       <title>How do you know that? Automatic belief inferences in passing conversation</title>
-      <link>/publication/rubiofernandez-2019-how/</link>
+      <link>https://mollicaf.github.io/publication/rubiofernandez-2019-how/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/rubiofernandez-2019-how/</guid>
+      <guid>https://mollicaf.github.io/publication/rubiofernandez-2019-how/</guid>
       <description></description>
     </item>
     

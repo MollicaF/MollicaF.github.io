@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>I. Moore | Frank Mollica</title>
-    <link>/author/i.-moore/</link>
-      <atom:link href="/author/i.-moore/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mollicaf.github.io/author/i.-moore/</link>
+      <atom:link href="https://mollicaf.github.io/author/i.-moore/index.xml" rel="self" type="application/rss+xml" />
     <description>I. Moore</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://mollicaf.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>I. Moore</title>
-      <link>/author/i.-moore/</link>
+      <link>https://mollicaf.github.io/author/i.-moore/</link>
     </image>
     
     <item>
       <title>Contrast perception as a visual heuristic in the formulation of referential expressions</title>
-      <link>/publication/long-2021-color/</link>
+      <link>https://mollicaf.github.io/publication/long-2021-color/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/long-2021-color/</guid>
+      <guid>https://mollicaf.github.io/publication/long-2021-color/</guid>
       <description></description>
     </item>
     
