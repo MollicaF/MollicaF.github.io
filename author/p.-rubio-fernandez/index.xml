@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P. Rubio-Fernández | Frank Mollica</title>
+    <link>/author/p.-rubio-fernandez/</link>
+      <atom:link href="/author/p.-rubio-fernandez/index.xml" rel="self" type="application/rss+xml" />
+    <description>P. Rubio-Fernández</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>P. Rubio-Fernández</title>
+      <link>/author/p.-rubio-fernandez/</link>
+    </image>
+    
+    <item>
+      <title>Contrast perception as a visual heuristic in the formulation of referential expressions</title>
+      <link>/publication/long-2021-color/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/long-2021-color/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speakers and listeners exploit word order for communicative efficiency: A cross-linguistic investigation</title>
+      <link>/publication/rubiofernandez-2021-speakers/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/rubiofernandez-2021-speakers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How do you know that? Automatic belief inferences in passing conversation</title>
+      <link>/publication/rubiofernandez-2019-how/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/rubiofernandez-2019-how/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

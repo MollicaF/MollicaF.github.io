@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N. Zaslavsky | Frank Mollica</title>
+    <link>/author/n.-zaslavsky/</link>
+      <atom:link href="/author/n.-zaslavsky/index.xml" rel="self" type="application/rss+xml" />
+    <description>N. Zaslavsky</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>N. Zaslavsky</title>
+      <link>/author/n.-zaslavsky/</link>
+    </image>
+    
+    <item>
+      <title>The forms and meanings of grammatical markers support efficient communication</title>
+      <link>/publication/mollica-2021-efficient/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/mollica-2021-efficient/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

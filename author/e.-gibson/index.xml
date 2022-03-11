@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E. Gibson | Frank Mollica</title>
+    <link>/author/e.-gibson/</link>
+      <atom:link href="/author/e.-gibson/index.xml" rel="self" type="application/rss+xml" />
+    <description>E. Gibson</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>E. Gibson</title>
+      <link>/author/e.-gibson/</link>
+    </image>
+    
+    <item>
+      <title>Poor writing, not specialized concepts, drive processing difficulty in legal texts</title>
+      <link>/publication/martinez-202-xwhat/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/martinez-202-xwhat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>So much for plain language</title>
+      <link>/publication/martinez-2022-somuch/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/martinez-2022-somuch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What did I sign? A study of the impenetrability of legalese in contracts</title>
+      <link>/publication/martinez-2021-what/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/martinez-2021-what/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How do you know that? Automatic belief inferences in passing conversation</title>
+      <link>/publication/rubiofernandez-2019-how/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/rubiofernandez-2019-how/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

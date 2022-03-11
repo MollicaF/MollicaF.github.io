@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Frank Mollica</title>
+    <link>/publication-type/1/</link>
+      <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>What did I sign? A study of the impenetrability of legalese in contracts</title>
+      <link>/publication/martinez-2021-what/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/martinez-2021-what/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An efficient communication analysis of morpho-syntactic grammatical features.</title>
+      <link>/publication/mollica-202-xfitness/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/mollica-202-xfitness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grammatical marking and the tradeoff between code length and informativeness.</title>
+      <link>/publication/mollica-2020-grammatical/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/mollica-2020-grammatical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A context constructivist account of contextual diversity.</title>
+      <link>/publication/mollica-2018-cd/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/mollica-2018-cd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adults use gradient similarity information in compositional rules.</title>
+      <link>/publication/oey-2018-adults/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/oey-2018-adults/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A rational constructivist account of the characteristic to defining shift.</title>
+      <link>/publication/mollica-2017-rational/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/mollica-2017-rational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An incremental information theoretic buffer supports sentence processing.</title>
+      <link>/publication/mollica-2017-lag/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/mollica-2017-lag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What determines human certainty?</title>
+      <link>/publication/marti-2016-what/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/marti-2016-what/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The perceptual foundation of linguistic context.</title>
+      <link>/publication/mollica-2015-perceptual/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/mollica-2015-perceptual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards semantically rich and recursive word learning models.</title>
+      <link>/publication/mollica-2015-towards/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/mollica-2015-towards/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Podrug | Frank Mollica</title>
+    <link>/author/a.-podrug/</link>
+      <atom:link href="/author/a.-podrug/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Podrug</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>A. Podrug</title>
+      <link>/author/a.-podrug/</link>
+    </image>
+    
+    <item>
+      <title>What did I sign? A study of the impenetrability of legalese in contracts</title>
+      <link>/publication/martinez-2021-what/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/martinez-2021-what/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

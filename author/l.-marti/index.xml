@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L. Martí | Frank Mollica</title>
+    <link>/author/l.-marti/</link>
+      <atom:link href="/author/l.-marti/index.xml" rel="self" type="application/rss+xml" />
+    <description>L. Martí</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>L. Martí</title>
+      <link>/author/l.-marti/</link>
+    </image>
+    
+    <item>
+      <title>Certainty is primarily determined by past performance during concept learning</title>
+      <link>/publication/marti-2017-superficial/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/marti-2017-superficial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What determines human certainty?</title>
+      <link>/publication/marti-2016-what/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/marti-2016-what/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
