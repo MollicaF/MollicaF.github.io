@@ -5,12 +5,44 @@
     <link>https://mollicaf.github.io/</link>
       <atom:link href="https://mollicaf.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Frank Mollica</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mollicaf.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Frank Mollica</title>
       <link>https://mollicaf.github.io/</link>
     </image>
+    
+    <item>
+      <title>Information-theoretic and machine learning methods for semantic categorization</title>
+      <link>https://mollicaf.github.io/publication/mollica-2023-information/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://mollicaf.github.io/publication/mollica-2023-information/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A colorful formalization of the typological prevalence hypothesis.</title>
+      <link>https://mollicaf.github.io/publication/torgue-2023-colorful/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://mollicaf.github.io/publication/torgue-2023-colorful/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diverse mathematical knowledge among indigenous Amazonians</title>
+      <link>https://mollicaf.github.io/publication/oshaughnessy-2023-diverse/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://mollicaf.github.io/publication/oshaughnessy-2023-diverse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Even lawyers do not like legalese</title>
+      <link>https://mollicaf.github.io/publication/martinez-2023-even/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://mollicaf.github.io/publication/martinez-2023-even/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Communicative Efficiency or Iconic Learning: Do communicative and acquisition pressures interact to shape colour-naming systems?</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Torgue | Frank Mollica</title>
+    <link>https://mollicaf.github.io/author/j.-torgue/</link>
+      <atom:link href="https://mollicaf.github.io/author/j.-torgue/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Torgue</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mollicaf.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>J. Torgue</title>
+      <link>https://mollicaf.github.io/author/j.-torgue/</link>
+    </image>
+    
+    <item>
+      <title>A colorful formalization of the typological prevalence hypothesis.</title>
+      <link>https://mollicaf.github.io/publication/torgue-2023-colorful/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://mollicaf.github.io/publication/torgue-2023-colorful/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
