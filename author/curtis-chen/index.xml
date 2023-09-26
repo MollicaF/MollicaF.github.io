@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Curtis Chen | Frank Mollica</title>
+    <link>https://mollicaf.github.io/author/curtis-chen/</link>
+      <atom:link href="https://mollicaf.github.io/author/curtis-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Curtis Chen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://mollicaf.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Curtis Chen</title>
+      <link>https://mollicaf.github.io/author/curtis-chen/</link>
+    </image>
+    
+  </channel>
+</rss>
