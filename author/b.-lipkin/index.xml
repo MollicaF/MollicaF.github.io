@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>B. Lipkin, | Frank Mollica</title>
+    <title>B. Lipkin | Frank Mollica</title>
     <link>https://mollicaf.github.io/author/b.-lipkin/</link>
       <atom:link href="https://mollicaf.github.io/author/b.-lipkin/index.xml" rel="self" type="application/rss+xml" />
-    <description>B. Lipkin,</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <description>B. Lipkin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mollicaf.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>B. Lipkin,</title>
+      <title>B. Lipkin</title>
       <link>https://mollicaf.github.io/author/b.-lipkin/</link>
     </image>
     
     <item>
-      <title>‘Constituent length’ effects in fMRI do not provide evidence for abstract syntactic processing</title>
-      <link>https://mollicaf.github.io/publication/shain-2022-constituent/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://mollicaf.github.io/publication/shain-2022-constituent/</guid>
+      <title>Distributed sensitivity to syntax and semantics throughout the language network</title>
+      <link>https://mollicaf.github.io/publication/shain-2024-distributed/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://mollicaf.github.io/publication/shain-2024-distributed/</guid>
       <description></description>
     </item>
     

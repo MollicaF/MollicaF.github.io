@@ -3,8 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mollicaf.github.io/publication-type/1/</loc>
+    <lastmod>2022-09-28T09:57:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mollicaf.github.io/publication-type/2/</loc>
+    <lastmod>2022-09-24T09:57:35+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mollicaf.github.io/publication-type/6/</loc>
     <lastmod>2021-09-28T09:57:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mollicaf.github.io/publication/mollica-2024-note/</loc>
+    <lastmod>2021-09-28T09:57:39+01:00</lastmod>
   </url>
   
   <url>
@@ -13,8 +28,53 @@
   </url>
   
   <url>
+    <loc>https://mollicaf.github.io/author/b.-lipkin/</loc>
+    <lastmod>2021-09-28T09:57:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mollicaf.github.io/author/c.-casto/</loc>
+    <lastmod>2021-09-28T09:57:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mollicaf.github.io/author/c.-shain/</loc>
+    <lastmod>2021-09-28T09:57:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mollicaf.github.io/publication/shain-2024-distributed/</loc>
+    <lastmod>2021-09-28T09:57:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mollicaf.github.io/author/e.-fedorenko%5Cdagger/</loc>
+    <lastmod>2021-09-28T09:57:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mollicaf.github.io/author/e.-gibson/</loc>
+    <lastmod>2022-09-28T09:57:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mollicaf.github.io/author/e.-martinez/</loc>
+    <lastmod>2022-09-28T09:57:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mollicaf.github.io/publication/martinez-2024-even/</loc>
+    <lastmod>2021-09-28T09:57:35+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mollicaf.github.io/author/f.-mollica/</loc>
     <lastmod>2022-09-28T09:57:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mollicaf.github.io/author/f.-mollica%5Cdagger/</loc>
+    <lastmod>2021-09-28T09:57:39+01:00</lastmod>
   </url>
   
   <url>
@@ -23,8 +83,28 @@
   </url>
   
   <url>
+    <loc>https://mollicaf.github.io/author/h.-kean/</loc>
+    <lastmod>2021-09-28T09:57:36+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mollicaf.github.io/publication/mollica-2023-information/</loc>
     <lastmod>2021-09-28T09:57:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mollicaf.github.io/author/j.-affourtit/</loc>
+    <lastmod>2021-09-28T09:57:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mollicaf.github.io/author/j.-culbertson/</loc>
+    <lastmod>2021-09-28T09:57:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mollicaf.github.io/author/m.-siegelman/</loc>
+    <lastmod>2021-09-28T09:57:36+01:00</lastmod>
   </url>
   
   <url>
@@ -43,13 +123,18 @@
   </url>
   
   <url>
-    <loc>https://mollicaf.github.io/publication-type/1/</loc>
-    <lastmod>2022-09-28T09:57:35+01:00</lastmod>
+    <loc>https://mollicaf.github.io/author/s.-de-souza/</loc>
+    <lastmod>2021-09-28T09:57:39+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mollicaf.github.io/publication-type/2/</loc>
-    <lastmod>2022-09-24T09:57:35+01:00</lastmod>
+    <loc>https://mollicaf.github.io/publication/martinez-2024-so/</loc>
+    <lastmod>2021-09-28T09:57:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mollicaf.github.io/publication/desouza-2024-what/</loc>
+    <lastmod>2021-09-28T09:57:39+01:00</lastmod>
   </url>
   
   <url>
@@ -65,16 +150,6 @@
   <url>
     <loc>https://mollicaf.github.io/publication/oshaughnessy-2023-diverse/</loc>
     <lastmod>2021-09-28T09:57:35+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mollicaf.github.io/author/e.-gibson/</loc>
-    <lastmod>2022-09-28T09:57:35+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mollicaf.github.io/author/e.-martinez/</loc>
-    <lastmod>2022-09-28T09:57:35+01:00</lastmod>
   </url>
   
   <url>
@@ -113,11 +188,6 @@
   </url>
   
   <url>
-    <loc>https://mollicaf.github.io/publication-type/3/</loc>
-    <lastmod>2021-09-28T09:57:35+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mollicaf.github.io/author/b.-gyevnar/</loc>
     <lastmod>2022-09-24T09:57:35+01:00</lastmod>
   </url>
@@ -138,6 +208,11 @@
   </url>
   
   <url>
+    <loc>https://mollicaf.github.io/publication/mollica-2021-logical/</loc>
+    <lastmod>2021-09-28T09:57:35+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mollicaf.github.io/publication/martinez-202-xwhat/</loc>
     <lastmod>2021-09-28T09:57:34+01:00</lastmod>
   </url>
@@ -148,48 +223,13 @@
   </url>
   
   <url>
+    <loc>https://mollicaf.github.io/author/s.-t.-piantadosi/</loc>
+    <lastmod>2021-09-28T09:57:40+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mollicaf.github.io/publication/martinez-2022a-somuch/</loc>
     <lastmod>2022-09-28T09:57:35+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mollicaf.github.io/publication/martinez-2022-somuch/</loc>
-    <lastmod>2021-09-28T09:57:35+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mollicaf.github.io/author/b.-lipkin/</loc>
-    <lastmod>2021-09-28T09:57:35+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mollicaf.github.io/author/c.-shain/</loc>
-    <lastmod>2021-09-28T09:57:35+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mollicaf.github.io/author/e.-fedorenko/</loc>
-    <lastmod>2021-09-28T09:57:36+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mollicaf.github.io/author/h.-kean/</loc>
-    <lastmod>2021-09-28T09:57:36+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mollicaf.github.io/author/j.-affourtit/</loc>
-    <lastmod>2021-09-28T09:57:35+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mollicaf.github.io/author/m.-siegelman/</loc>
-    <lastmod>2021-09-28T09:57:35+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mollicaf.github.io/publication/shain-2022-constituent/</loc>
-    <lastmod>2021-09-28T09:57:35+01:00</lastmod>
   </url>
   
   <url>
@@ -218,11 +258,6 @@
   </url>
   
   <url>
-    <loc>https://mollicaf.github.io/publication/mollica-2021-logical/</loc>
-    <lastmod>2021-09-28T09:57:35+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mollicaf.github.io/author/m.-long/</loc>
     <lastmod>2021-09-28T09:57:36+01:00</lastmod>
   </url>
@@ -235,11 +270,6 @@
   <url>
     <loc>https://mollicaf.github.io/author/p.-rubio-fernandez/</loc>
     <lastmod>2021-09-28T09:57:37+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mollicaf.github.io/author/s.-t.-piantadosi/</loc>
-    <lastmod>2021-09-28T09:57:40+01:00</lastmod>
   </url>
   
   <url>
@@ -293,8 +323,8 @@
   </url>
   
   <url>
-    <loc>https://mollicaf.github.io/author/f.-mollica%5Cdagger/</loc>
-    <lastmod>2021-09-28T09:57:39+01:00</lastmod>
+    <loc>https://mollicaf.github.io/author/e.-fedorenko/</loc>
+    <lastmod>2021-09-28T09:57:36+01:00</lastmod>
   </url>
   
   <url>
@@ -385,6 +415,11 @@
   <url>
     <loc>https://mollicaf.github.io/author/s.-yan%5Cdagger/</loc>
     <lastmod>2021-09-28T09:57:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mollicaf.github.io/publication-type/3/</loc>
+    <lastmod>2021-09-28T09:57:35+01:00</lastmod>
   </url>
   
   <url>
