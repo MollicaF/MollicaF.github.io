@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Giles | Frank Mollica</title>
+    <link>https://mollicaf.github.io/author/m.-giles/</link>
+      <atom:link href="https://mollicaf.github.io/author/m.-giles/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Giles</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mollicaf.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>M. Giles</title>
+      <link>https://mollicaf.github.io/author/m.-giles/</link>
+    </image>
+    
+    <item>
+      <title>Perceptual discriminability drives overinformative reference, but colour information is special</title>
+      <link>https://mollicaf.github.io/publication/giles-2025-perceptual/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://mollicaf.github.io/publication/giles-2025-perceptual/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

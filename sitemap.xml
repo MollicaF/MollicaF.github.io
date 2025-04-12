@@ -2,11 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mollicaf.github.io/publication-type/2/</loc>
-    <lastmod>2022-09-24T09:57:35+01:00</lastmod>
+    <loc>https://mollicaf.github.io/publication-type/1/</loc>
+    <lastmod>2022-09-28T09:57:35+01:00</lastmod>
   </url><url>
     <loc>https://mollicaf.github.io/authors/</loc>
     <lastmod>2022-09-28T09:57:35+01:00</lastmod>
+  </url><url>
+    <loc>https://mollicaf.github.io/author/c.-kemp/</loc>
+    <lastmod>2021-09-28T09:57:39+01:00</lastmod>
+  </url><url>
+    <loc>https://mollicaf.github.io/author/e.-vylomova/</loc>
+    <lastmod>2021-09-28T09:57:39+01:00</lastmod>
+  </url><url>
+    <loc>https://mollicaf.github.io/author/f.-mollica/</loc>
+    <lastmod>2022-09-28T09:57:35+01:00</lastmod>
+  </url><url>
+    <loc>https://mollicaf.github.io/</loc>
+    <lastmod>2022-09-28T09:57:35+01:00</lastmod>
+  </url><url>
+    <loc>https://mollicaf.github.io/author/m.-giles/</loc>
+    <lastmod>2021-09-28T09:57:39+01:00</lastmod>
+  </url><url>
+    <loc>https://mollicaf.github.io/author/p.-rubio-fernandez/</loc>
+    <lastmod>2021-09-28T09:57:39+01:00</lastmod>
+  </url><url>
+    <loc>https://mollicaf.github.io/publication/giles-2025-perceptual/</loc>
+    <lastmod>2021-09-28T09:57:39+01:00</lastmod>
+  </url><url>
+    <loc>https://mollicaf.github.io/publication_types/</loc>
+    <lastmod>2022-09-28T09:57:35+01:00</lastmod>
+  </url><url>
+    <loc>https://mollicaf.github.io/publication/</loc>
+    <lastmod>2022-09-28T09:57:35+01:00</lastmod>
+  </url><url>
+    <loc>https://mollicaf.github.io/author/t.-khishigsuren/</loc>
+    <lastmod>2021-09-28T09:57:39+01:00</lastmod>
+  </url><url>
+    <loc>https://mollicaf.github.io/publication/khishigsuren-2025-usage/</loc>
+    <lastmod>2021-09-28T09:57:39+01:00</lastmod>
+  </url><url>
+    <loc>https://mollicaf.github.io/publication-type/2/</loc>
+    <lastmod>2022-09-24T09:57:35+01:00</lastmod>
   </url><url>
     <loc>https://mollicaf.github.io/author/e.-gibson/</loc>
     <lastmod>2022-09-28T09:57:35+01:00</lastmod>
@@ -16,21 +52,6 @@
   </url><url>
     <loc>https://mollicaf.github.io/publication/martinez-2024-even-pnas/</loc>
     <lastmod>2021-09-28T09:57:35+01:00</lastmod>
-  </url><url>
-    <loc>https://mollicaf.github.io/author/f.-mollica/</loc>
-    <lastmod>2022-09-28T09:57:35+01:00</lastmod>
-  </url><url>
-    <loc>https://mollicaf.github.io/</loc>
-    <lastmod>2022-09-28T09:57:35+01:00</lastmod>
-  </url><url>
-    <loc>https://mollicaf.github.io/publication_types/</loc>
-    <lastmod>2022-09-28T09:57:35+01:00</lastmod>
-  </url><url>
-    <loc>https://mollicaf.github.io/publication/</loc>
-    <lastmod>2022-09-28T09:57:35+01:00</lastmod>
-  </url><url>
-    <loc>https://mollicaf.github.io/publication-type/1/</loc>
-    <lastmod>2022-09-28T09:57:35+01:00</lastmod>
   </url><url>
     <loc>https://mollicaf.github.io/publication-type/6/</loc>
     <lastmod>2021-09-28T09:57:35+01:00</lastmod>
@@ -146,9 +167,6 @@
     <loc>https://mollicaf.github.io/author/a.-podrug/</loc>
     <lastmod>2021-09-28T09:57:38+01:00</lastmod>
   </url><url>
-    <loc>https://mollicaf.github.io/author/c.-kemp/</loc>
-    <lastmod>2021-09-28T09:57:38+01:00</lastmod>
-  </url><url>
     <loc>https://mollicaf.github.io/publication/long-2021-color/</loc>
     <lastmod>2021-09-28T09:57:36+01:00</lastmod>
   </url><url>
@@ -163,9 +181,6 @@
   </url><url>
     <loc>https://mollicaf.github.io/people/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mollicaf.github.io/author/p.-rubio-fernandez/</loc>
-    <lastmod>2021-09-28T09:57:37+01:00</lastmod>
   </url><url>
     <loc>https://mollicaf.github.io/publication/rubiofernandez-2021-speakers/</loc>
     <lastmod>2021-09-28T09:57:36+01:00</lastmod>
