@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>S. de Souza | Frank Mollica</title>
-    <link>https://mollicaf.github.io/author/s.-de-souza/</link>
-      <atom:link href="https://mollicaf.github.io/author/s.-de-souza/index.xml" rel="self" type="application/rss+xml" />
-    <description>S. de Souza</description>
+    <title>I. Vegner | Frank Mollica</title>
+    <link>https://mollicaf.github.io/author/i.-vegner/</link>
+      <atom:link href="https://mollicaf.github.io/author/i.-vegner/index.xml" rel="self" type="application/rss+xml" />
+    <description>I. Vegner</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mollicaf.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>S. de Souza</title>
-      <link>https://mollicaf.github.io/author/s.-de-souza/</link>
+      <title>I. Vegner</title>
+      <link>https://mollicaf.github.io/author/i.-vegner/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://mollicaf.github.io/publication/desouza-2025-minverva/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://mollicaf.github.io/publication/desouza-2025-minverva/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>What can L1 speakers tell us about *killing hope*? A novel behavioral measure for identifying collocations</title>
-      <link>https://mollicaf.github.io/publication/desouza-2024-what/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://mollicaf.github.io/publication/desouza-2024-what/</guid>
       <description></description>
     </item>
     
